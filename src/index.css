@@ -1,0 +1,9 @@
+body{
+    margin: 0
+  }
+
+  @font-face {
+    font-family: 'LCD2';
+    src: url('fonts/digital-7\ \(italic\).ttf') format('truetype');
+  }
+  
